@@ -32,7 +32,7 @@ To install the dependencies, run
 
 .. code-block:: python
 
-    pip install -r requirements.txt
+   python -m pip install -r requirements.txt
 
 We intent to only support Python3. 
 
